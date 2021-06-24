@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/iterfaces/AddItf.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/iterfaces/ChangeItf.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/iterfaces/DeleteItf.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/iterfaces/SearchItf.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/method/Delete.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/method/HelpAdd.java" charset="GBK" />
+  </component>
+</project>
